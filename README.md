@@ -9,7 +9,7 @@ FastAPI + PostgreSQL + Pydantic + docker-compose + JWT + SQLAlchemy
 ### Установка и Запуск:
 1. Склонировать репозиторий:
 ```bash
-git clone
+git clone https://github.com/adllkhan/Weather-FastAPI-App.git
 ```
 
 2. Перейти в директорию проекта и создать файл .env:
